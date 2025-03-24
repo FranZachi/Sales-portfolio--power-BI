@@ -1,6 +1,8 @@
 # Sales-portfolio--power-BI
 Sales dashboard- Portfolio- Power BI
 
+Dashboard link: https://app.powerbi.com/groups/me/reports/d3ed328b-23b2-4321-9412-9bffadcbaa09/be06d85a0c19752d2d3c?experience=power-bi
+
 
 1)	Introduction:
 
